@@ -20,4 +20,3 @@
 ## Education Discount
 
 - GitHub Education：[https://education.github.com/](https://education.github.com/)，可以申请GitHub的学生优惠，有一些付费软件的免费权益。
-- 
