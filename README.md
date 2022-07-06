@@ -25,3 +25,4 @@
 ## Others
 
 - 经典数据结构和算法可视化：[https://visualgo.net/zh](https://visualgo.net/zh)，做了一些经典算法和数据结构的可视化。
+- (Awesome Tips)[https://github.com/jbhuang0604/awesome-tips]
